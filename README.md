@@ -1,5 +1,5 @@
 # Vinicius pereira
-Olá eu meu nome é Vinicius , sou estudante de desenvovimento e apaixonado por programação, tecnologia e linux!
+Olá meu nome é Vinicius, sou estudante de desenvovimento web e apaixonado por programação, tecnologia e linux!
 
 ### Minhas tecnologias favoritas 
 <div style="display: inline_block">
